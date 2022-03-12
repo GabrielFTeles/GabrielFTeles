@@ -3,6 +3,7 @@
 
 - 🤖 Interested in working on front-end
 - 🌱 Currently learning CSS/HTML/JS/React
+- 🇧🇷 Brazil
 
 ##
 
