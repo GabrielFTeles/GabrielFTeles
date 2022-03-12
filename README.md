@@ -1,4 +1,4 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹!
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px" style="max-width: 100%;">
 
 
 - 🤖 Interested in working on front-end
