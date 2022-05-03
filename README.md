@@ -14,6 +14,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteles&layout=compact&langs_count=7&theme=algolia"/>
    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielfteles&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&background=050F2C&currStreakNum=FFFB00&sideNums=FFFFFF&ring=00D1DD&fire=D8FF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00D1DD"/>
   </a>
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -35,6 +36,12 @@
   
 </div>
 
+### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
+  
+ <div style="display: inline_block" align="center" >
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> 
+  <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=GabrielFTeles&theme=react-dark" alt="GitHub Contribution Graph" />
+</div>
 
 <div align="center">
 <p>**Random dev joke for you!**</p>
