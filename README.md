@@ -42,6 +42,8 @@
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> 
   <img height="250em" src="https://activity-graph.herokuapp.com/graph?username=GabrielFTeles&theme=react-dark" alt="GitHub Contribution Graph" />
 </div>
+ 
+ ##
 
 <div align="center">
 <p>**Random dev joke for you!**</p>
