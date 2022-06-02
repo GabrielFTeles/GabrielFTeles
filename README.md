@@ -1,4 +1,4 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px" style="max-width: 100%;">
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px">
 
 
  <div>- 🤖 FullStack in progress </div>
