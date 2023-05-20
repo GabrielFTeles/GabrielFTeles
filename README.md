@@ -37,8 +37,8 @@
 ### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
   
  <div style="display: inline_block" align="center" >
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"> 
-  <img height="250em" src="[![Gabriel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFTeles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/GabrielFTeles"> 
+  <img height="250em" src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFTeles&theme=react-dark" alt="GitHub Contribution Graph" />
 </div>
  
  ##
