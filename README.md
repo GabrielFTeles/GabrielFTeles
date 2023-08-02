@@ -1,7 +1,7 @@
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹!
 
  <div>- 🤖 FullStack in progress </div>
- <div>- 🌱 Currently learning CSS/HTML/JS/React </div>
+ <div>- 🌱 Currently learning CSS/HTML/JS/React/NodeJs/SQL </div>
  <div>- 🚩 Brazil </div>
 
 
