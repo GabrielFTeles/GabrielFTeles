@@ -32,13 +32,6 @@
   <a href="https://www.linkedin.com/in/gabriel-teles-b28709234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-### <p style="display: inline_block" align="center"><samp> - GitHub Contribution Graph - </samp></p><br>
-  
- <div style="display: inline_block" align="center" >
-  <a href="https://github.com/GabrielFTeles"> 
-  <img height="250em" src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielFTeles&theme=react-dark" alt="GitHub Contribution Graph" />
-</div>
  
  ##
 
