@@ -23,6 +23,8 @@
   <img align="center" alt="Gab-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
+![snake gif](https://github.com/GabrielFTeles/GabrielFTeles/blob/output/github-contribution-grid-snake.gif)
+
 ##
 
 <div>
