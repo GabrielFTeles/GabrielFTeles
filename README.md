@@ -1,34 +1,29 @@
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝗜'𝗺 𝗚𝗮𝗯𝗿𝗶𝗲𝗹!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=header"/>
 
- <div>- 🤖 FullStack in progress </div>
- <div>- 🌱 Currently learning React/NodeJs/SQL </div>
- <div>- 🚩 Brazil </div>
-
-
-##
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Hello%2C+my+name+is+Gabriel+%F0%9F%91%8B;I'm+21+years+old;I'm+from+Brazil;Enjoy+my+profile+%F0%9F%91%80)
 
 <div align="center">
-  <a href="https://github.com/GabrielFTeles">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielfteles&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfteles&layout=compact&langs_count=7&theme=algolia"/>
-   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=gabrielfteles&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&background=050F2C&currStreakNum=FFFB00&sideNums=FFFFFF&ring=00D1DD&fire=D8FF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=00D1DD"/>
-  </a>
- 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gab-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=fde047&text_color=3b82f6&bg_color=0d1117" alt="GabrielFTeles github stats" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true&title_color=3b82f6&text_color=3b82f6&bg_color=0d1117" />
 </div>
 
-##
+### ✉️ Social Links
 
-<div>
- 	<a href="https://www.twitch.tv/faalteinoead" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/839691667715391510" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielfariateles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielfariateles@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-teles-b28709234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fteles/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielfariateles@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ToVivendoErrado)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/839691667715391510)
+
+### 💻 Skills
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFTeles&bg_color=0d1117&color=3b82f6&line=67e8f9&point=FFF&area_color=67e8f9&area=true&hide_border=true)
