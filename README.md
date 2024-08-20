@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Hello%2C+my+name+is+Gabriel+%F0%9F%91%8B;I'm+21+years+old;I'm+from+Brazil;Enjoy+my+profile+%F0%9F%91%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Hello%2C+my+name+is+Gabriel+%F0%9F%91%8B;I'm+22+years+old;I'm+from+Brazil;Enjoy+my+profile+%F0%9F%91%80)
 
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=fde047&text_color=3b82f6&bg_color=0d1117" alt="GabrielFTeles github stats" /> 
