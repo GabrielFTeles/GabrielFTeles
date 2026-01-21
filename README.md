@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Hello%2C+my+name+is+Gabriel+%F0%9F%91%8B;I'm+from+Brazil;Enjoy+my+profile+%F0%9F%91%80)
 
 <div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true&title_color=3b82f6&icon_color=fde047&text_color=3b82f6&bg_color=0d1117" alt="GabrielFTeles github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true&title_color=3b82f6&text_color=3b82f6&bg_color=0d1117" />
+<a href="https://github.com/GabrielFTeles"><img width="49%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true" alt="GabrielFTeles github stats" /></a>
+<a href="https://github.com/GabrielFTeles"><img width="41%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true" /></a>
 </div>
 
 ### ✉️ Social Links
