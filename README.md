@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://github.com/GabrielFTeles"><img width="49%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true" alt="GabrielFTeles github stats" /></a>
-<a href="https://github.com/GabrielFTeles"><img width="41%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true" /></a>
+<a href="https://github.com/GabrielFTeles"><img width="37%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true" /></a>
 </div>
 
 ### ✉️ Social Links
