@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3b82f6&center=true&vCenter=true&random=false&size=30&width=1000&lines=Hello%2C+my+name+is+Gabriel+%F0%9F%91%8B;I'm+from+Brazil;Enjoy+my+profile+%F0%9F%91%80)
 
 <div align="center">
-<a href="https://github.com/GabrielFTeles"><img width="49%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFTeles&show_icons=true&count_private=true&hide_border=true" alt="GabrielFTeles github stats" /></a>
+<a href="https://github.com/GabrielFTeles"><img width="49%" height=200 align="center" src="https://github-readme-stats-rho-lyart-46.vercel.app/api?username=GabrielFTeles&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GabrielFTeles github stats" /></a>
 <a href="https://github.com/GabrielFTeles"><img width="37%" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFTeles&layout=compact&hide_border=true" /></a>
 </div>
 
